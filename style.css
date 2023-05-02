@@ -39,3 +39,18 @@ h1 {
     flex-direction: column;
     gap: 5px;
 }
+
+.divSelects {
+    display: flex;
+    gap: 5px;
+}
+
+select {
+    width: 50%;
+    padding: 10px;
+    cursor: pointer;
+    outline: none;
+    font-size: 18px;
+    border-color: #DDD;
+    border-radius: 5px;
+}
