@@ -1,1 +1,5 @@
 Tutorial https://www.youtube.com/watch?v=GzFPCJlyBVk&ab_channel=WillDev
+
+
+
+MyMemory API de Tradução https://mymemory.translated.net/doc/spec.php
