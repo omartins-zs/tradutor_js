@@ -24,3 +24,18 @@ body {
     gap: 10px;
     margin: 5px;
 }
+
+h1 {
+    color: white;
+    letter-spacing: 1px;
+}
+
+.content {
+    padding: 15px;
+    box-shadow: 0 1px 2px #0003;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
