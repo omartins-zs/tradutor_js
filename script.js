@@ -25,3 +25,12 @@ selects.forEach((tag) => {
         tag.insertAdjacentHTML("beforeend", option);
     }
 });
+
+btnTranslate.addEventListener("click", () => {
+    if (textareaFrom.value) {
+        loadTranslation();
+    } else {
+        textareaTo.value = "";
+    }
+});
+
